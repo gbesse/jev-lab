@@ -1,5 +1,13 @@
 # Jev Lab launch campaign
 
+## Live launch
+
+- Published from [@guyom](https://x.com/guyom) on 22 September 2026.
+- [Launch thread](https://x.com/guyom/status/2102328213623939539)
+- Six posts published as one reply chain.
+- Launch asset: [`assets/jev-lab-launch.png`](../assets/jev-lab-launch.png)
+- Public hub: [github.com/gbesse/jev-lab](https://github.com/gbesse/jev-lab)
+
 ## Objective
 
 Turn 59 separate repositories into one legible body of work, then convert attention into repository visits, stars, issues, reproductions and independent submissions.
