@@ -1,0 +1,34 @@
+name: Submit a Jev project
+description: Propose a public project for the Jev Lab map
+title: "[Project]: "
+labels:
+  - submission
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Public repository
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Decision task
+      description: What bounded choice, score or probability does the project produce?
+    validations:
+      required: true
+  - type: textarea
+    id: run
+    attributes:
+      label: Reproduction path
+      description: Give the shortest runnable demo and state whether it uses fixtures or the live API.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and boundaries
+      description: Link measured results and describe the most important known limitation.
+    validations:
+      required: true
