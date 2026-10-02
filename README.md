@@ -21,6 +21,10 @@ Most repositories include an offline demo or fixtures, tests, explicit safety bo
 | [Jev Codebook](https://github.com/gbesse/jev-codebook) | Qualitative coding at scale | Review uncertainty and compare agreement with human coders |
 | [Jev Utility](https://github.com/gbesse/jev-utility) | Converts probabilities and mistake costs into actions | Makes thresholds and escalation bands explicit |
 
+## Try one project first
+
+[Three offline paths in French, English and Spanish](START-HERE.md) lead to a decision contract, a pairwise audit and a Unity gateway request. Each uses synthetic fixtures and includes its own runnable command.
+
 ## The map
 
 ### Decision infrastructure
