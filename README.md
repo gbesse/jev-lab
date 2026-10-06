@@ -23,6 +23,8 @@ Most repositories include an offline demo or fixtures, tests, explicit safety bo
 
 ## Try one project first
 
+[Choose a project by task · Choisir par besoin · Elegir por tarea](CHOOSE-A-PROJECT.md) gives three entry points for decisions, text review and platform integration.
+
 [Three offline paths in French, English and Spanish](START-HERE.md) lead to a decision contract, a pairwise audit and a Unity gateway request. Each uses synthetic fixtures and includes its own runnable command.
 
 ## The map
